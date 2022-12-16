@@ -1,0 +1,44 @@
+[
+    {
+        "name": "barton springs pool",
+        "address": "2201 William Barton Dr, Austin, TX 78746",
+        "exactLocation": {
+            "lat": 0,
+            "longitude": 0
+        },
+        "ratingsAverage": null,
+        "ratingsQty": 5,
+        "description": "Barton Springs Pool is a recreational outdoor swimming pool that is filled entirely with water from nearby natural springs. It is located on the grounds of Zilker Park in Austin, Texas. ",
+        "imgCover": "https://www.austintexas.gov/sites/default/files/webimage-Barton-Springs-Pool_0.png",
+        "imgs": ["String"],
+        "free": false
+    },
+    {
+        "name": "zilker botanical garden",
+        "address": "2220 Barton Springs Rd, Austin, TX 78746",
+        "exactLocation": {
+            "lat": 0,
+            "longitude": 0
+        },
+        "ratingsAverage": null,
+        "ratingsQty": 3,
+        "description": "Zilker Botanical Garden is nestled within Zilker Metropolitan Park in the heart of downtown Austin. Our themed gardens including the Taniguchi Japanese Garden, Hartman Prehistoric Garden, and Rose Garden, are all interconnected with pathways for all ages and abilities.  With heritage live oaks, streams, and Koi-filled ponds, the Garden offers a peaceful respite in the middle of our busy city.",
+        "imgCover": "https://scontent-hou1-1.cdninstagram.com/v/t51.29350-15/305041385_191188129941535_4553485089167580119_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8ae9d6&_nc_ohc=nhHGSZcBpuoAX-JpQ00&_nc_ht=scontent-hou1-1.cdninstagram.com&edm=ANo9K5cEAAAA&oh=00_AT9s8eeFq9VimjRjNsQkiRJhxTxsto4VO0Ryk6m4PVHuHA&oe=63280F52",
+        "imgs": ["String"],
+        "free": false
+    },
+    {
+        "name": "zilker park",
+        "address": "2207 Lou Neff Rd, Austin, TX 78746",
+        "exactLocation": {
+            "lat": 0,
+            "longitude": 0
+        },
+        "ratingsAverage": null,
+        "ratingsQty": 2,
+        "description": "Zilker Metropolitan Park is a recreational area in south Austin, Texas at the juncture of Barton Creek and the Colorado River that comprises over 350 acres of publicly owned land.",
+        "imgCover": "https://www.austintexas.gov/sites/default/files/images/Parks/Zilker_Metro_Park/zilker-great-lawn%20skyline%202021-07-22.jpg",
+        "imgs": ["String"],
+        "free": true
+    }
+]
